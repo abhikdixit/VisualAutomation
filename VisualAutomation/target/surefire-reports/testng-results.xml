@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14216" started-at="2020-12-22T10:37:14Z" finished-at="2020-12-22T10:37:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14216" started-at="2020-12-22T10:37:14Z" finished-at="2020-12-22T10:37:28Z">
+      <class name="pk_UI_Automation.Mobile_Browser_View_Flight_Login">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:pk_UI_Automation.Mobile_Browser_View_Flight_Login@59a6e353]" name="LaunchBrowser" is-config="true" duration-ms="6939" started-at="2020-12-22T16:07:14Z" finished-at="2020-12-22T16:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="SignOn()[pri:0, instance:pk_UI_Automation.Mobile_Browser_View_Flight_Login@59a6e353]" name="SignOn" duration-ms="6491" started-at="2020-12-22T16:07:21Z" finished-at="2020-12-22T16:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOn -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:pk_UI_Automation.Mobile_Browser_View_Flight_Login@59a6e353]" name="CloseBrowser" is-config="true" duration-ms="773" started-at="2020-12-22T16:07:27Z" finished-at="2020-12-22T16:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- pk_UI_Automation.Mobile_Browser_View_Flight_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
